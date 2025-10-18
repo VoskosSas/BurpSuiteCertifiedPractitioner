@@ -1272,7 +1272,7 @@ Now you can get your file with /files/avatars/../rce2.php
 .php is blacklisted, but you can set .phar extension
 ```
 
-Hello, actual steps on how to do it , follow this exact step by step, because the labs are weird if you deviate at all you will see the payload, instead of it actually executing
+The following is a step by step guide on the official method, because the labs are weird if you deviate at all you will see the actual payload, instead of it actually executing
 
 ```
 1st upload a jpg/PNG
